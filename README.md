@@ -1,16 +1,23 @@
-# motion_toast_flutter
+# Animated Motion Toast - Flutter x Dart
 
-A new Flutter project.
+A simple use case of the package Motion toast
 
-## Getting Started
+## Dependecy
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub add motion_toast
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Results
+<p>
+<img src="https://github.com/Vishwa-Karthik/MotionToast-Flutter/blob/master/img1.png " width=200 height=400 /> &nbsp
+<img src="https://github.com/Vishwa-Karthik/MotionToast-Flutter/blob/master/img2.png " width=200 height=400 /> &nbsp
+<img src="https://github.com/Vishwa-Karthik/MotionToast-Flutter/blob/master/img3.png" width=200 height=400 /> <br>
+<img src="https://github.com/Vishwa-Karthik/MotionToast-Flutter/blob/master/img4.png" width=200 height=400 /> &nbsp
+<img src="https://github.com/Vishwa-Karthik/MotionToast-Flutter/blob/master/img5.png" width=200 height=400 /> &nbsp
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## References
+
+Reference : [MOTION - TOAST](https://pub.dev/packages/motion_toast) 
